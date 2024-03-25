@@ -1,0 +1,6 @@
+[submodule "devfw"]
+	path = devfw
+	url = https://github.com/cloudbrownie/devfw.git
+[submodule "scripts/devfw"]
+	path = scripts/devfw
+	url = https://github.com/cloudbrownie/devfw.git
